@@ -1,0 +1,21 @@
+{
+    "name": "infinety/sweetalert",
+    "description": "A package for using SweetAlert with Laravel 5.1 >",
+    "keywords": ["laravel", "alert", "sweet-alert", "laravel sweet alert"],
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Infinety",
+            "email": "hello@infinety.co.uk"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Infinety\\SweetAlert\\": "/src"
+        }
+    }
+}
